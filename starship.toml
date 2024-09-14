@@ -54,7 +54,7 @@ mantle = "#181825"
 crust = "#11111b"
 
 [sudo]
-format = "[ ]($style)"
+format = "[ 🧙]($style)"
 disabled = false
 
 [username]
